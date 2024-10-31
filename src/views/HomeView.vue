@@ -27,6 +27,7 @@ h1 {
   color: $black;
   text-align: center;
   margin-bottom: 10px;
+  font-size: 70px;
 }
 
 p {
@@ -34,5 +35,6 @@ p {
   color: $dark-green;
   text-align: center;
   margin: 5px 0;
+  font-size: 30px;
 }
 </style>
